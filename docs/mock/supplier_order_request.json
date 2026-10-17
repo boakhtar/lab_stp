@@ -1,0 +1,11 @@
+{
+  "orderId": 1,
+  "supplierId": "SUP-002",
+  "createdAt": "2026-10-14T15:20:00Z",
+  "items": [
+    {
+      "sku": "B-2002",
+      "quantity": 30
+    }
+  ]
+}

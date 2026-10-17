@@ -1,0 +1,17 @@
+{
+  "supplierId": "SUP-001",
+  "items": [
+    {
+      "sku": "A-1001",
+      "name": "Дрель ударная",
+      "price": 4500,
+      "available": 120
+    },
+    {
+      "sku": "A-1002",
+      "name": "Шуруповёрт",
+      "price": 3200,
+      "available": 80
+    }
+  ]
+}

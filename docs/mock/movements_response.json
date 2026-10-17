@@ -1,0 +1,33 @@
+{
+  "from": "2026-10-01",
+  "to": "2026-10-16",
+  "movements": [
+    {
+      "id": 1,
+      "sku": "A-1001",
+      "type": "receipt",
+      "quantity": 50,
+      "price": 4000,
+      "docNumber": "PN-0001",
+      "createdAt": "2026-10-05T09:00:00Z"
+    },
+    {
+      "id": 6,
+      "sku": "A-1001",
+      "type": "sale",
+      "quantity": 13,
+      "price": 4500,
+      "docNumber": "CH-000101",
+      "createdAt": "2026-10-12T12:20:00Z"
+    },
+    {
+      "id": 11,
+      "sku": "B-2001",
+      "type": "write_off",
+      "quantity": 3,
+      "price": null,
+      "docNumber": "AS-0001",
+      "createdAt": "2026-10-15T11:00:00Z"
+    }
+  ]
+}
