@@ -1,0 +1,11 @@
+{
+  "docNumber": "CH-000106",
+  "createdAt": "2026-10-16T12:35:10Z",
+  "items": [
+    {
+      "sku": "A-1001",
+      "quantity": 2,
+      "price": 4500
+    }
+  ]
+}
